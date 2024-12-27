@@ -95,8 +95,8 @@
             </div>
             <div class="col-xl-6 wow fadeInRight" data-wow-delay="0.2s">
                 <div class="about-img">
-                    <div class="img-2">
-                        <img src="{{ asset('template_fe/img/suzuki.png') }}" class="img-fluid rounded w-100" alt="">
+                    <div class="img-1">
+                        <img src="{{ asset('template_fe/img/suzuki.png') }}" class="img-fluid rounded h-100 w-100" alt="">
                     </div>
                 </div>
             </div>
