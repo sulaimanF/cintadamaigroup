@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item p-4">
-                        <img src="{{ asset('template_fe/img/logo.png') }}" class="img-fluid rounded-top w-100" alt="Image">
+                        <img src="{{ asset('template_fe/img/brand.png') }}" class="img-fluid rounded-top w-100" alt="Image">
                     </div>
                 </div>
             </div>

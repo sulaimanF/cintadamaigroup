@@ -15,7 +15,7 @@
                     <a href="{{ route('pages.index') }}"><i class="fas fa-angle-right me-2"></i> Home</a>
                     <a href="{{ route('pages.about') }}"><i class="fas fa-angle-right me-2"></i> About</a>
                     <a href="{{ route('pages.services') }}"><i class="fas fa-angle-right me-2"></i> Services</a>
-                    <a href="#"><i class="fas fa-angle-right me-2"></i> Team</a>
+                    {{-- <a href="#"><i class="fas fa-angle-right me-2"></i> Team</a> --}}
                     <a href="{{ route('pages.contact') }}"><i class="fas fa-angle-right me-2"></i> Contact us</a>
                 </div>
             </div>
@@ -51,9 +51,9 @@
                     <a href="tel:+0231230506" target="_blank"><i class="fas fa-phone me-2"></i> +0231230506</a>
                     <a href="https://wa.me/+6282116284848" class="mb-3" target="_blank"><i class="fas fa-message me-2"></i> +6282116284848</a>
                     <div class="d-flex">
-                        <a class="btn btn-secondary btn-md-square rounded-circle me-3" href=""><i class="fab fa-facebook-f text-white"></i></a>
-                        <a class="btn btn-secondary btn-md-square rounded-circle me-3" href=""><i class="fab fa-tiktok text-white"></i></a>
-                        <a class="btn btn-secondary btn-md-square rounded-circle me-3" href=""><i class="fab fa-instagram text-white"></i></a>
+                        {{-- <a class="btn btn-secondary btn-md-square rounded-circle me-3" href=""><i class="fab fa-facebook-f text-white"></i></a> --}}
+                        <a class="btn btn-secondary btn-md-square rounded-circle me-3" href="https://www.tiktok.com/@cintadamaigroup?_t=8sYYjZXfoN5&_r=1" target="_blank"><i class="fab fa-tiktok text-white"></i></a>
+                        <a class="btn btn-secondary btn-md-square rounded-circle me-3" href="https://www.instagram.com/cintadamaigroup?igsh=MW5uOW8zOTd2enNmdw==" target="_blank"><i class="fab fa-instagram text-white"></i></a>
                     </div>
                 </div>
             </div>
