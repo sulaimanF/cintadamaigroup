@@ -9,8 +9,19 @@
         </ol> --}}
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <img src="{{ asset('template_fe/img/cdg.png') }}" class="img-fluid w-100" alt="First slide"/>
-                
+                <img src="{{ asset('template_fe/img/cdpb.png') }}" class="img-fluid w-100" alt="First slide"/>
+                <div class="carousel-caption">
+                    <div class="container py-4">
+                        <div class="row g-5">
+                            <div class="col-lg-6 d-none d-lg-flex fadeInLeft animated" data-animation="fadeInLeft" data-delay="1s" style="animation-delay: 1s;">
+                                <div class="text-start">
+                                    <h1 class="display-5 text-white">Your Ultimate Choice for Suzuki, Honda, and Hyundai</h1>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
             </div>
             {{-- <div class="carousel-item">
                 <img src="{{ asset('template_fe/img/carousel-1.jpg') }}" class="img-fluid w-100" alt="First slide"/>
