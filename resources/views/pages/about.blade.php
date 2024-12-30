@@ -36,6 +36,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item p-4">
                     <h5 class="mb-3"><span class="fw-bold">Suzuki</span> 7 Showroom</h5>
+                    <a href="{{ route('pages.branchsuzuki') }}" target="_blank">Lihat Branch Suzuki  <i class="fa fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
@@ -51,6 +52,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item p-4">
                     <h5 class="mb-3"><span class="fw-bold">Honda</span> 2 Showroom</h5>
+                    <a href="{{ route('pages.branchhonda') }}" target="_blank">Lihat Branch Honda  <i class="fa fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
@@ -66,6 +68,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item p-4">
                     <h5 class="mb-3"><span class="fw-bold">Hyundai</span> 2 Showroom</h5>
+                    <a href="{{ route('pages.branchhyundai') }}" target="_blank">Lihat Branch Hyundai  <i class="fa fa-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
