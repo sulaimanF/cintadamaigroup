@@ -6,7 +6,7 @@
     <div class="container py-5">
         <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
             <h1 class="display-5 text-capitalize mb-3">Semua Cabang<span class="text-primary"> Hyundai</span></h1>
-            <p class="mb-0">Cinta Damai Group merupakan perusahaan yang bergerak di bidang otomotif yang menyediakan jaringan penjualan, perawatan, perbaikan dan suku cadang untuk merek resmi seperti Hyundai, Honda, dan Suzuki.
+            <p class="mb-0">Cinta Damai Group merupakan perusahaan yang bergerak di bidang otomotif yang menyediakan penjualan, perawatan, perbaikan dan suku cadang untuk merk resmi seperti Suzuki, Honda, dan Hyundai.
             </p>
         </div>
         <div class="row g-4">

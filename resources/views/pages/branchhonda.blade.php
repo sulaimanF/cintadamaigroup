@@ -25,21 +25,6 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
-                <div class="blog-item">
-                    <div class="blog-img">
-                        <img src="{{ asset('template_fe/img/vwhonda.png') }}" class="img-fluid rounded-top w-100" alt="Image">
-                    </div>
-                    <div class="blog-content rounded-bottom p-4">
-                        {{-- <div class="blog-date">30 Dec 2025</div> --}}
-                        <a href="https://honda-eiyu.com/" class="h4 d-block mb-3" target="_blank">VW Honda Kedawung</a>
-                        <p class="mb-3">Jalan Raya Kedawung Nomor 33, Dawuan, Kec. Kedawung, Kab. Cirebon, Jawa Barat, 45153</p>
-                        <p class="mb-3">Whatsapp : 0821-1628-4848</p>
-                        <p class="mb-3">Telphone : 0231-481319</p>
-                        <a href="https://maps.app.goo.gl/PL7tHeXsgiEsUyUKA" target="_blank">Kunjungi Lokasi  <i class="fa fa-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </div>

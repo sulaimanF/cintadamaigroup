@@ -11,11 +11,11 @@
             <div class="carousel-item active">
                 <img src="{{ asset('template_fe/img/cdpb.png') }}" class="img-fluid w-100" alt="First slide"/>
                 <div class="carousel-caption">
-                    <div class="container py-4">
+                    <div class="h-75 container py-4">
                         <div class="row g-5">
                             <div class="col-lg-6 d-none d-lg-flex fadeInLeft animated" data-animation="fadeInLeft" data-delay="1s" style="animation-delay: 1s;">
                                 <div class="text-start">
-                                    <h1 class="display-5 text-white">Your Ultimate Choice for Suzuki, Honda, and Hyundai</h1>
+                                    <h1 class="display-5 text-white">Pilihan Utama Anda untuk Suzuki, Honda, dan Hyundai</h1>
                                 </div>
                             </div>
                             
@@ -36,7 +36,7 @@
 <div class="container-fluid slogan py-5">
     <div class="container py-5">
         <div class="text-center mx-auto wow fadeInUp mt-4s" data-wow-delay="0.1s" style="max-width: 800px;">
-            <h2 class="display-5 text-capitalize mb-3">Honda, Hyundai, Suzuki</h2>
+            <h2 class="display-5 text-capitalize mb-3">Suzuki, Honda, Hyundai</h2>
             <h2>Partner Terbaik untuk Setiap Perjalanan</h2>
         </div>
     </div>
@@ -51,6 +51,16 @@
             </h4>
         </div>
         <div class="row g-4">
+            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="{{ asset('template_fe/img/xl7.png') }}" class="img-fluid rounded-top w-100" alt="Image">
+                    </div>
+                    <div class="blog-content rounded-bottom p-4">
+                        <a href="https://suzukicintadamai.co.id/" target="_blank">Kunjungi Website  <i class="fa fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
             <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="blog-item">
                     <div class="blog-img">
@@ -71,16 +81,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                <div class="blog-item">
-                    <div class="blog-img">
-                        <img src="{{ asset('template_fe/img/xl7.png') }}" class="img-fluid rounded-top w-100" alt="Image">
-                    </div>
-                    <div class="blog-content rounded-bottom p-4">
-                        <a href="https://suzukicintadamai.co.id/" target="_blank">Kunjungi Website  <i class="fa fa-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </div>
 </div>
@@ -94,7 +95,7 @@
                 <div class="about-item">
                     <div class="pb-5">
                         <h1 class="display-5 text-capitalize"><span class="text-primary">Cinta Damai Group</span></h1>
-                        <p class="mb-0">Cinta Damai Group merupakan perusahaan yang bergerak di bidang otomotif yang menyediakan jaringan penjualan, perawatan, perbaikan dan suku cadang untuk merek resmi seperti Hyundai, Honda, dan Suzuki.
+                        <p class="mb-0">Cinta Damai Group merupakan perusahaan yang bergerak di bidang otomotif yang menyediakan penjualan, perawatan, perbaikan dan suku cadang untuk merk resmi seperti Suzuki, Honda, dan Hyundai.
                         </p>
                     </div>
                     <div class="row g-4">
@@ -141,7 +142,7 @@
                         <span class="fs-2 fw-bold h1" data-toggle="counter-up">70</span>
                         <span class="h1 fw-bold">K+</span>
                     </div>
-                    <h4 class="mb-0">Cars Sold</h4>
+                    <h4 class="mb-0">Mobil Terjual</h4>
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
@@ -153,7 +154,7 @@
                         <span class="fs-2 fw-bold h1" data-toggle="counter-up">500</span>
                         <span class="h1 fw-bold">+</span>
                     </div>
-                    <h4 class="mb-0">Employees</h4>
+                    <h4 class="mb-0">Karyawan</h4>
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
@@ -165,7 +166,7 @@
                         <span class="fs-2 fw-bold h1" data-toggle="counter-up">100</span>
                         <span class="h1 fw-bold">K+</span>
                     </div>
-                    <h4 class="mb-0">Database Customers</h4>
+                    <h4 class="mb-0">Database Konsumen</h4>
                 </div>
             </div>
         </div>
@@ -183,9 +184,9 @@
                         <img src="{{ asset('template_fe/img/suzuki.png') }}" class="img-fluid w-100 rounded-top" alt="">
                     </div>
                     <div class="categories-content rounded-bottom p-4">
-                        <h4>Branch Suzuki</h4>
+                        <h4>Cabang Suzuki</h4>
                         
-                        <a href="{{ route('pages.branchsuzuki') }}" class="btn btn-primary rounded-pill d-flex justify-content-center py-3">Lihat Semua Showroom Suzuki</a>
+                        <a href="{{ route('pages.branchsuzuki') }}" class="btn btn-primary rounded-pill d-flex justify-content-center py-3">Lihat Semua Cabang Suzuki</a>
                     </div>
                 </div>
             </div>
@@ -195,9 +196,9 @@
                         <img src="{{ asset('template_fe/img/honda.png') }}" class="img-fluid w-100 rounded-top" alt="">
                     </div>
                     <div class="categories-content rounded-bottom p-4">
-                        <h4>Branch Honda</h4>
+                        <h4>Cabang Honda</h4>
                         
-                        <a href="{{ route('pages.branchhonda') }}" class="btn btn-primary rounded-pill d-flex justify-content-center py-3">Lihat Semua Showroom Honda</a>
+                        <a href="{{ route('pages.branchhonda') }}" class="btn btn-primary rounded-pill d-flex justify-content-center py-3">Lihat Semua Cabang Honda</a>
                     </div>
                 </div>
             </div>
@@ -207,9 +208,9 @@
                         <img src="{{ asset('template_fe/img/hyundai.png') }}" class="img-fluid w-100 rounded-top" alt="">
                     </div>
                     <div class="categories-content rounded-bottom p-4">
-                        <h4>Branch Hyundai</h4>
+                        <h4>Cabang Hyundai</h4>
                         
-                        <a href="{{ route('pages.branchhyundai') }}" class="btn btn-primary rounded-pill d-flex justify-content-center py-3">Lihat Semua Showroom Hyundai</a>
+                        <a href="{{ route('pages.branchhyundai') }}" class="btn btn-primary rounded-pill d-flex justify-content-center py-3">Lihat Semua Cabang Hyundai</a>
                     </div>
                 </div>
             </div>

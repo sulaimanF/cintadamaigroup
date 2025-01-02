@@ -6,7 +6,7 @@
     <div class="container py-5">
         <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
             <h1 class="display-5 text-capitalize mb-3"><span class="text-primary">Cinta Damai Group</span></h1>
-            <p class="mb-0">Cinta Damai Group merupakan perusahaan yang bergerak di bidang otomotif yang menyediakan jaringan penjualan, perawatan, perbaikan dan suku cadang untuk merek resmi seperti Hyundai, Honda, dan Suzuki.
+            <p class="mb-0">Cinta Damai Group merupakan perusahaan yang bergerak di bidang otomotif yang menyediakan jaringan penjualan, perawatan, perbaikan dan suku cadang untuk merek resmi seperti Suzuki, Honda, dan Hyundai.
             </p>
         </div>
 
@@ -51,7 +51,7 @@
             </div>
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item p-4">
-                    <h5 class="mb-3"><span class="fw-bold">Honda</span> 2 Showroom</h5>
+                    <h5 class="mb-3"><span class="fw-bold">Honda</span> 1 Showroom</h5>
                     <a href="{{ route('pages.branchhonda') }}" target="_blank">Lihat Branch Honda  <i class="fa fa-arrow-right"></i></a>
                 </div>
             </div>
@@ -122,7 +122,7 @@
                         <span class="fs-2 fw-bold h1" data-toggle="counter-up">70</span>
                         <span class="h1 fw-bold">K+</span>
                     </div>
-                    <h4 class="mb-0">Cars Sold</h4>
+                    <h4 class="mb-0">Mobil Terjual</h4>
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
@@ -134,7 +134,7 @@
                         <span class="fs-2 fw-bold h1" data-toggle="counter-up">500</span>
                         <span class="h1 fw-bold">+</span>
                     </div>
-                    <h4 class="mb-0">Employees</h4>
+                    <h4 class="mb-0">Karyawan</h4>
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
@@ -146,7 +146,7 @@
                         <span class="fs-2 fw-bold h1" data-toggle="counter-up">100</span>
                         <span class="h1 fw-bold">K+</span>
                     </div>
-                    <h4 class="mb-0">Database Customers</h4>
+                    <h4 class="mb-0">Database Konsumen</h4>
                 </div>
             </div>
         </div>

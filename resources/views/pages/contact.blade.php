@@ -55,7 +55,6 @@
                             </div>
                             <div>
                                 <h4>cintadamaigroup.com</h4>
-                                <p class="mb-0">(+0231) 230506</p>
                             </div>
                         </div>
                     </div>
