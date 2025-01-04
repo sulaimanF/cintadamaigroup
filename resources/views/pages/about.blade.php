@@ -20,7 +20,7 @@
                     </div>
                     <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="service-item about p-4">
-                            <h4 class="mb-3">Merupakan dealer automotif resmi di wilayah yang meliputi Cirebon, Kuningan, Majalengka, dan Indramayu dan sudah berdiri sejak tahun 1994 memberikan pelayanan terbaik bagi masyarakat, perusahaan dan instansi pemerintahan yang membutuhkan kendaraan sebagai pendukung mobilitas.</h4>
+                            <h4 class="text-start mb-3">Merupakan dealer automotif resmi di wilayah yang meliputi Cirebon, Kuningan, Majalengka, dan Indramayu dan sudah berdiri sejak tahun 1994 memberikan pelayanan terbaik bagi masyarakat, perusahaan dan instansi pemerintahan yang membutuhkan kendaraan sebagai pendukung mobilitas.</h4>
                         </div>
                     </div>
                 </div>
